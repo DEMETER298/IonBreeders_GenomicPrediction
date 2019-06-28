@@ -2,7 +2,7 @@
 Genotyping and genomic selection plugins for the Ion Torrent NGS platform.
 
 
-[Instructions for IonBreeders (Japanese version 1.0) IonBreedersの使い方 日本語版 ver.1.0 ](https://github.com/DEMETER298/IonBreeders/wiki/IonBreeders%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9-(Japanese-version-1.0))
+[IonBreedersの使い方 日本語版 ver.1.0 ](https://github.com/DEMETER298/IonBreeders_GenomicPrediction/wiki)
 
 
 # 1. Installation Instructions
