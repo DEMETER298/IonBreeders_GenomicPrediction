@@ -1,5 +1,5 @@
-# IonBreeders version 1.0
-Genotyping and genomic prediction plugins for the Ion Torrent NGS platform.
+# IonBreeders_GenomicPrediction version 1.0
+Genomic prediction plugins for the Ion Torrent NGS platform.
 
 
 [IonBreedersの使い方 日本語版 ver.1.0 ](https://github.com/DEMETER298/IonBreeders_GenomicPrediction/wiki)
