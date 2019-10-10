@@ -1,5 +1,5 @@
 # IonBreeders version 1.0
-Genotyping and genomic selection plugins for the Ion Torrent NGS platform.
+Genotyping and genomic prediction plugins for the Ion Torrent NGS platform.
 
 
 [IonBreedersの使い方 日本語版 ver.1.0 ](https://github.com/DEMETER298/IonBreeders_GenomicPrediction/wiki)
@@ -11,7 +11,7 @@ Genotyping and genomic selection plugins for the Ion Torrent NGS platform.
  
 The three plugins of IonBreeders are provided as a zipped package containing files from the Latest Release project page on Github. 
 
-The file name will be of the format IonBreeders_ABH.zip, IonBreeders_Imputation.zip and IonBreeders_GenomicSelection.zip.
+The file name will be of the format IonBreeders_ABH.zip, IonBreeders_Imputation.zip and IonBreeders_GenomicPrediction.zip.
 
 ## Install
 
@@ -33,7 +33,7 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 
 
 # 2. Plugin manuals
-## 2-3 GENOMIC SELECTION plugin
+## 2-3 GENOMIC PREDICTION plugin
 ### 2-3-1 Function
 (1)	Remove non-informative markers such as those with high missing rates and low allele frequencies. Missing genotype are input as the mean value of each marker.
 
@@ -56,7 +56,7 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 
 3.	Execution:
 
-(1)	From the list of plugins, click IonBreeders_GenomicSelection.
+(1)	From the list of plugins, click IonBreeders_GenomicPrediction.
 
 (2)	Set each item on the screen as shown below.
 
