@@ -11,7 +11,7 @@ Genomic prediction plugin for the Ion Torrent NGS platform.
  
 The three plugins of IonBreeders are provided as a zipped package containing files from the Latest Release project page on Github. 
 
-The file name will be of the format IonBreeders_ABH.zip, IonBreeders_Imputation.zip and IonBreeders_GenomicPrediction.zip.
+The file name will be of the format IonBreeders_GenomicPrediction.zip.
 
 ## Install
 
