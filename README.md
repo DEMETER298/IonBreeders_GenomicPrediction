@@ -10,7 +10,7 @@ Genomic prediction plugin for the Ion Torrent NGS platform.
 ## Download plugins
  The GenomicPrediction plugin of IonBreeders is provided as a zipped package containing files from the Latest Release project page on Github. The file name will be of the format IonBreeders_GenomicPrediction.zip.
 1. Click the **`Clone or download`** in the upper right and **`Download ZIP`** button to save a zipped archive to you local computer.
-<kbd><img src="https://user-images.githubusercontent.com/40309394/66794248-b7f66d00-ef3b-11e9-9fee-8f30137739be.png"/></kbd>
+<kbd><img src="https://user-images.githubusercontent.com/40309394/66795304-3274bc00-ef3f-11e9-91c1-bc3b86d8bde4.png"/></kbd>
 2. Unzip the downloaded IonBreeders_GenomicPrediction-master.zip file.
 
 ## Install
