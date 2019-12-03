@@ -41,12 +41,11 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 
 2-3-2 Input files
 Prepare the marker genotype data of the training population and prediction target sample in CSV format as follows:  
-Test data can be downloaded from [main page](https://github.com/DEMETER298/IonBreeders).  
-Missing data should be descriped in "-" or "NA".
+Test data can be downloaded from [main page](https://github.com/DEMETER298/IonBreeders). Missing data should be descriped in "-" or "NA".
 
 
 Prepare the genotype data for training.  
-![image](https://user-images.githubusercontent.com/40309394/54862816-71fd7000-4d83-11e9-984d-ea21514f11e7.png)AA/AB/BB format (IMPUTATION output)  'ak_genotype_output_training.csv' 
+![image](https://user-images.githubusercontent.com/40309394/54862816-71fd7000-4d83-11e9-984d-ea21514f11e7.png)AA/AB/BB format (IMPUTATION output)  `ak_genotype_output_training.csv` 
   
 ![image](https://user-images.githubusercontent.com/40309394/54862819-7aee4180-4d83-11e9-938d-cd5c589c781f.png)A/B/H format 
       
