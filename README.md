@@ -60,7 +60,8 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 
 (2)	Set each item on the screen as shown below.
 
-![19](https://user-images.githubusercontent.com/40309394/54862789-0c10e880-4d83-11e9-936f-5eef2a78a383.png)
+![19](https://user-images.githubusercontent.com/40309394/70030406-83726980-15ec-11ea-9bae-d2a023e03049.png)
+
 
 `Add text at the beginning of the sample name`: Add the sample name before the sample number.	
 
@@ -85,7 +86,7 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 (3)	Output
 When execution is completed, the following items are displayed on the screen.
 
-![20](https://user-images.githubusercontent.com/40309394/54862758-b2a8b980-4d82-11e9-8ba1-0bad5a15b6b6.png)
+![20](https://user-images.githubusercontent.com/40309394/70030505-b3ba0800-15ec-11ea-99f5-f73b5b4c160f.png)
  
 input files
 
@@ -101,7 +102,8 @@ input files
 
 `rice_rootpheno_1_out.csv`: output predicted value (CSV file) shown below.
  
-![image](https://user-images.githubusercontent.com/40309394/54862745-77a68600-4d82-11e9-90a3-5431d575dfbf.png)
+![image](https://user-images.githubusercontent.com/40309394/70030240-21196900-15ec-11ea-95b6-0e793fcbe497.png)
+
 
 **GS METHODS**
 
