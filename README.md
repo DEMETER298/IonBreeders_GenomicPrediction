@@ -40,19 +40,25 @@ Follow these steps for automatic installation of a plugin from the Torrent Brows
 (2)	Predict genetic values from the genotype data by constructing a GS model from the phenotyped and genotyped training population.
 
 2-3-2 Input files
-Prepare the genotype data of the training population and prediction target sample in CSV format as follows:
+Prepare the marker genotype data of the training population and prediction target sample in CSV format as follows:  
+Test data can be downloaded from [main page](https://github.com/DEMETER298/IonBreeders).  
+Missing data should be descriped in "-" or "NA".
 
-![image](https://user-images.githubusercontent.com/40309394/54862816-71fd7000-4d83-11e9-984d-ea21514f11e7.png)AA/AB/BB format (IMPUTATION output)   
+
+Prepare the genotype data for training.  
+![image](https://user-images.githubusercontent.com/40309394/54862816-71fd7000-4d83-11e9-984d-ea21514f11e7.png)AA/AB/BB format (IMPUTATION output)  'ak_genotype_output_training.csv' 
   
 ![image](https://user-images.githubusercontent.com/40309394/54862819-7aee4180-4d83-11e9-938d-cd5c589c781f.png)A/B/H format 
       
 
 
-Prepare the phenotypic data of the training sample as a CSV file in the following format:
- 
-![image](https://user-images.githubusercontent.com/40309394/54862840-dae4e800-4d83-11e9-993a-5d2cd9487b20.png)
+Prepare the phenotypic data of the training sample as a CSV file in the following format:  
+![image](https://user-images.githubusercontent.com/40309394/70031653-12808100-15ef-11ea-9df6-ae27ea4d472d.png) `ak_phenotype_training.csv`
 
 
+Prepare the marker genotype data for prediction:
+If you input AA/AB/BB genotype data for training, input same format genotype file for prediction as follow.`ak_genotype_output_test.csv`
+![genotypeforprediction](https://user-images.githubusercontent.com/40309394/70032294-8cfdd080-15f0-11ea-8131-129a94d6f785.png)
 
 3.	Execution:
 
@@ -60,7 +66,8 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 
 (2)	Set each item on the screen as shown below.
 
-![19](https://user-images.githubusercontent.com/40309394/70031443-9dad4700-15ee-11ea-96f5-96d95a24c063.png)
+![19](https://user-images.githubusercontent.com/40309394/70031556-d51bf380-15ee-11ea-932e-3130d69a6c94.png)
+
 
 
 
