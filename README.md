@@ -60,7 +60,8 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 
 (2)	Set each item on the screen as shown below.
 
-![19](https://user-images.githubusercontent.com/40309394/70030406-83726980-15ec-11ea-9bae-d2a023e03049.png)
+![19](https://user-images.githubusercontent.com/40309394/70031443-9dad4700-15ee-11ea-96f5-96d95a24c063.png)
+
 
 
 `Add text at the beginning of the sample name`: Add the sample name before the sample number.	
@@ -86,7 +87,7 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 (3)	Output
 When execution is completed, the following items are displayed on the screen.
 
-![20](https://user-images.githubusercontent.com/40309394/70031088-ddbffa00-15ed-11ea-8bd6-159138142735.png)
+![20](https://user-images.githubusercontent.com/40309394/70030505-b3ba0800-15ec-11ea-99f5-f73b5b4c160f.png)
 
  
 input files
