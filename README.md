@@ -86,7 +86,8 @@ Prepare the phenotypic data of the training sample as a CSV file in the followin
 (3)	Output
 When execution is completed, the following items are displayed on the screen.
 
-![20](https://user-images.githubusercontent.com/40309394/70030505-b3ba0800-15ec-11ea-99f5-f73b5b4c160f.png)
+![20](https://user-images.githubusercontent.com/40309394/70031088-ddbffa00-15ed-11ea-8bd6-159138142735.png)
+
  
 input files
 
