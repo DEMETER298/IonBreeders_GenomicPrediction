@@ -147,7 +147,7 @@ Institute of Crop Science / National Agriculture and Food Research Organization
 Version 1.0
 
 # Citing IonBreeders
-Ogiso-Tanaka E, Yabe S and Tanaka T (2019) 
+Ogiso-Tanaka E, Yabe S and Tanaka T (2019) in press
 
 **IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding.**
 
