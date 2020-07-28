@@ -138,7 +138,7 @@ When execution is completed, the following items are displayed on the screen.
 ***
 
 # Contact
-Eri Ogiso-Tanaka, Ph.D. demeter@affrc.go.jp
+Eri Ogiso-Tanaka, Ph.D. demeter298(at)gmail.com
 
 Institute of Crop Science / National Agriculture and Food Research Organization
 2-1-2, Kannondai, Tsukuba, Ibaraki 305-8518, Japan
