@@ -147,9 +147,13 @@ Institute of Crop Science / National Agriculture and Food Research Organization
 Version 1.0
 
 # Citing IonBreeders
-Ogiso-Tanaka E, Yabe S and Tanaka T (2019) in press
+Ogiso-Tanaka E, Yabe S and Tanaka T (2020)
 
-**IonBreeders: semi-automated bioinformatics plugins toward genomics-assisted breeding.**
+**IonBreeders: automated bioinformatics plugins toward genomics-assisted breeding.**
+
+Breeding Science 70（３）: 396-401.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7372021/
 
 # License
 NARO NON-COMMERCIAL LICENSE AGREEMENT Version 1.0
